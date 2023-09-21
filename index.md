@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: My first blog
 ---
 
+- [ ] are you good?
+- [ ] you like Pizza?
